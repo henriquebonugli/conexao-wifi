@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../bluetooth22"
+		},
+		{
+			"name": "conexao-Wifi",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
